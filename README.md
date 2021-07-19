@@ -13,10 +13,10 @@ Once we have the data frame, we are able to get the summary statistics by using 
 ## Results
 
 June Temperatures
-![]()
+![](https://github.com/albertomontilla17/surfs_up/blob/main/Resources/June%20Temperature.png)
 
 December Temperatures
-![]()
+![](https://github.com/albertomontilla17/surfs_up/blob/main/Resources/June%20Temperature.png)
 
 ## Summary
 
